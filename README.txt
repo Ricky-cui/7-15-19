@@ -17,3 +17,6 @@ LSTICK - Adjust slide offset (In case the slide gets too low. Make slow)
 RSTICK - DOWN to take in blocks, UP to eject blocks (Analog)
 LSTICK BUTTON - 
 RSTICK BUTTON -
+
+
+1234567890
